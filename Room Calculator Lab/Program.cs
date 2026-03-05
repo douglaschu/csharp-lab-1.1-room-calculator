@@ -27,5 +27,4 @@ else if (area > 250 && area < 650) {
     Console.WriteLine($"The room is {roomSize}.");
 }
 
-
 Console.ReadLine();
